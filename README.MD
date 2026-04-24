@@ -1,14 +1,5 @@
 # 🤖 44r0nd4vidg3 - Agentic Cybernetic Developer
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Welcome+to+the+Matrix...;Initializing+Cybernetic+Interface...;44r0nd4vidg3+Online" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=44r0nd4vidg3&show_icons=true&theme=dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&border_color=00FF00" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=44r0nd4vidg3&layout=compact&theme=dark&title_color=00FF00&text_color=00FF00&bg_color=000000&border_color=00FF00" alt="Top Languages" />
-</div>
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -24,6 +15,15 @@
   <a href="https://twitter.com/44r0nd4vidg3">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF00&center=true&vCenter=true&width=940&lines=Welcome+to+the+Matrix...;Initializing+Cybernetic+Interface...;44r0nd4vidg3+Online" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=44r0nd4vidg3&show_icons=true&theme=dark&title_color=00FF00&text_color=00FF00&icon_color=00FF00&bg_color=000000&border_color=00FF00" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=44r0nd4vidg3&layout=compact&theme=dark&title_color=00FF00&text_color=00FF00&bg_color=000000&border_color=00FF00" alt="Top Languages" />
 </div>
 
 ## 🔍 About Me
