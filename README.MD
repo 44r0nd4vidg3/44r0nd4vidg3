@@ -2,7 +2,7 @@
 
 # ⚡ AI Engineer • Agent Architect • Anti-Gravity Builder
 
-<img src="./assets/IMG_1290.jpeg" width="100%" />
+<img src="IMG_1290.jpeg" width="100%" />
 
 ### Building autonomous systems that think, reason, act, and scale.
 
