@@ -306,7 +306,7 @@ Features:
 
 [LinkedIn](https://www.linkedin.com/in/aarondavidge)
 •
-[Portfolio](https://yourwebsite.com)
+[Portfolio](https://geaux2consulting.com)
 •
 [Twitter/X](https://x.com/YOUR_HANDLE)
 
