@@ -304,7 +304,7 @@ Features:
 
 <div align="center">
 
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
+[LinkedIn](https://www.linkedin.com/in/aarondavidge)
 •
 [Portfolio](https://yourwebsite.com)
 •
