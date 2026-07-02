@@ -320,7 +320,9 @@ Features:
 •
 [Portfolio](https://aarondavidge.com)
 •
-[Twitter/X](https://x.com/44r0nd4vidg3)
+[X](https://x.com/44r0nd4vidg3)
+•
+[Instagram](https://www.instagram.com/aarondavidge.ai)
 
 </div>
 
