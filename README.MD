@@ -2,6 +2,18 @@
 
 # ⚡ AI Engineer • Agent Architect • Anti-Gravity Builder
 
+# 🌐 Connect
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/aarondavidge)
+•
+[Portfolio](https://aarondavidge.com)
+•
+[Twitter/X](https://x.com/44r0nd4vidg3)
+
+</div>
+
 <img src="IMG_1700.png" width="100%" />
 
 ### Building autonomous systems that think, reason, act, and scale.
@@ -306,9 +318,9 @@ Features:
 
 [LinkedIn](https://www.linkedin.com/in/aarondavidge)
 •
-[Portfolio](https://geaux2consulting.com)
+[Portfolio](https://aarondavidge.com)
 •
-[Twitter/X](https://x.com/YOUR_HANDLE)
+[Twitter/X](https://x.com/44r0nd4vidg3)
 
 </div>
 
