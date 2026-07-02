@@ -2,9 +2,9 @@
 
 # ⚡ AI Engineer • Agent Architect • Anti-Gravity Builder
 
-# 🌐 Connect
-
 <div align="center">
+
+# 🌐 Connect
 
 [LinkedIn](https://www.linkedin.com/in/aarondavidge)
 •
