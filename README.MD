@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# 🌐 Connect
-
 [LinkedIn](https://www.linkedin.com/in/aarondavidge)
 •
 [Portfolio](https://aarondavidge.com)
