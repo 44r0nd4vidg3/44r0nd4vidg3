@@ -41,8 +41,7 @@
   agents that admit when they don't know, and shipping something a
   real person can click instead of a notebook nobody runs.
 
-  Everything in this profile is live. Click it. Break it.
-  Tell me what you find — I'll thank you for it.
+  Everything in this profile is live.
 ```
 
 ---
