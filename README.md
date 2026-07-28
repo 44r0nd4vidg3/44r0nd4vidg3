@@ -156,7 +156,7 @@ Retrieval comes next. Until it's grounded, an agent that confidently invents my 
 ◐ IN THE LAB  ── actively learning, not yet shipped
   RAG · embeddings & vector search · tool calling
   multi-agent orchestration · agent evaluation harnesses
-  Flutter · Next.js · PostgreSQL · Stripe · Claude CLI · Kubernetes
+  Flutter · PostgreSQL · Stripe · Kubernetes
 
 ○ NOT CLAIMING  ── because I haven't done it yet
   everything else
