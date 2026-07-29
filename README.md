@@ -61,7 +61,7 @@
 </tr>
 
 <tr>
-<td><b><a href="https://github.com/44r0nd4vidg3/google_root_cause_analysis_of_0days_in_the_wild">0DAY-RCA-PIPELINE</a></b></td>
+<td><b><a href="https://github.com/44r0nd4vidg3/google_project_zero_blog_scraper">0DAY-RCA-PIPELINE</a></b></td>
 <td>Automated pipeline ingesting Google Project Zero's root-cause analyses of in-the-wild zero-days into structured, queryable records. Handles messy source formatting and dedupes on re-run.</td>
 <td><code>Python</code> <code>Scraping</code> <code>Scheduled ingest</code></td>
 <td>🟢 <b>SHIPPED</b></td>
