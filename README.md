@@ -170,7 +170,7 @@ Retrieval comes next. Until it's grounded, an agent that confidently invents my 
 
 Security isn't my job title, it's how I build. I read exploit writeups and root-cause analyses for fun — that's literally what the [0DAY-RCA-PIPELINE](https://github.com/44r0nd4vidg3/google_project_zero_blog_scraper) exists to collect — and it shows up as secrets hygiene, screening what reaches my models, and assuming user input is hostile.
 
-- 📋 **Disclosure policy:** [aarondavidge.com/srcurity](https://aarondavidge.com/security.html
+- 📋 **Disclosure policy:** [aarondavidge.com/srcurity](https://aarondavidge.com/security.html)
 - 🔐 Found something in one of my projects? Follow the policy above. I respond, I credit, and I don't lawyer.
 
 <details>
