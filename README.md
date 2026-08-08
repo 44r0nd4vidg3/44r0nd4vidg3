@@ -26,7 +26,7 @@
   ROLE     AI Engineer
   EDU      ~100 credit hours toward a B.S. in Computer Science
            (Southeastern Louisiana Univ. · LSU) — algorithms, data
-           structures, assembly, calculus through III, probability
+           structures, assembly, theory of computation, enterprise development, calculus through III, probability
            and diff eq. Self-taught everything after that.
   FOCUS    Agent backends on Google's stack. FastAPI in a container
            on Cloud Run, Gemini behind it, Model Armor either side.
