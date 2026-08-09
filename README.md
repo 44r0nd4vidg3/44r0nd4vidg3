@@ -166,6 +166,8 @@ Retrieval comes next. Until it's grounded, an agent that confidently invents my 
 > That last block is deliberate. I'd rather you trust the first list.
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=44r0nd4vidg3&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+---
 
 ## `$ ./security --disclose`
 
