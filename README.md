@@ -166,7 +166,6 @@ Retrieval comes next. Until it's grounded, an agent that confidently invents my 
 > That last block is deliberate. I'd rather you trust the first list.
 
 ---
-![Top Languages](https://gh-top-languages.vercel.app/api/languages?username=44r0nd4vidg3&langs=16)---
 
 ## `$ ./security --disclose`
 
