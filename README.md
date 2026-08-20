@@ -4,7 +4,7 @@
 
 # `44R0N D4VIDG3`
 
-**AI ENGINEER**
+**Software ENGINEER**
 
 `build it` → `ship it` → `try to break it` → `patch it`
 
@@ -23,7 +23,7 @@
 44r0n@mainframe:~$ whoami --verbose
 
   NAME     Aaron Davidge
-  ROLE     AI Engineer
+  ROLE     Software Engineer
   EDU      ~110 credit hours toward a B.S. in Computer Science
            (Southeastern Louisiana Univ. · LSU) — algorithms, data
            structures, assembly, theory of computation, enterprise development,
@@ -31,7 +31,7 @@
            Self-taught everything after that.
   FOCUS    Agent backends on Google's stack. FastAPI in a container
            on Cloud Run, Gemini behind it, Model Armor either side.
-  ALSO     Security-minded by habit — I read exploit writeups for fun
+  ALSO     Security-minded by habit — I read exploit write-ups and CVE postings for fun
            and design like someone's going to poke at it.
   STATUS   ◉ OPEN TO WORK — remote, hybrid, onsite. Will travel.
 
