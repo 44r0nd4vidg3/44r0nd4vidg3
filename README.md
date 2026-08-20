@@ -24,7 +24,7 @@
 
   NAME     Aaron Davidge
   ROLE     AI Engineer
-  EDU      ~100 credit hours toward a B.S. in Computer Science
+  EDU      ~110 credit hours toward a B.S. in Computer Science
            (Southeastern Louisiana Univ. · LSU) — algorithms, data
            structures, assembly, theory of computation, enterprise development,
            calculus through III, probability and differential equations,
