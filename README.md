@@ -15,7 +15,7 @@
 
 [**`SITE`**](https://aarondavidge.com) · [**`BLOG`**](https://aarondavidge.com/blog/) · [**`LINKEDIN`**](https://www.linkedin.com/in/aarondavidge/) · [**`X`**](https://x.com/44r0nd4vidg3)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=44r0nd4vidg3&layout=compact&theme=transparent&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=44r0nd4vidg3&layout=compact&theme=transparent&langs_count=8&v=2)
 
 </div>
 
