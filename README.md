@@ -94,11 +94,7 @@
 <td>MCP server for the SAM.gov Get Opportunities API — search federal contract opportunities from Claude in plain English</td>
 <td><code>Python</code></td>
 <td>🟢 <b>SHIPPED</b></td>
-<td>
-  <a href="https://example.com">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
-         height="20" alt="Visit site">
-  </a>
+<td><a href="https://example.com"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </td>
 </tr>
 
