@@ -107,7 +107,7 @@
 
 ---
 
-## `$ cat ~/architectures/a4ron_ai.mmd`
+## `$ cat ~/architectures/a4ron_ai.md`
 
 Not a generic reference diagram — this is [A4RON.AI](https://aarondavidge.com/assistant.html) as it actually runs today, with the roadmap drawn separately instead of pretending it's already there:
 
