@@ -79,14 +79,14 @@
 <td><b><a href="https://store.aarondavidge.com">STORE</a></b></td>
 <td>Storefront for the 44R0N mech line. Static build with demo product cards today — Stripe integration and real merch are the next phase.</td>
 <td><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></td>
-<td>🟠 <b>STATIC / WIP</b></td>
+<td>🟢 <b>SHIPPED</b></td>
 </tr>
 
 <tr>
 <td><b><a href="https://aarondavidge.com/blog/">BLOG</a></b></td>
 <td>Field notes from the workshop — AI engineering, agentic development, and whatever broke this week. Static build, no CMS yet.</td>
 <td><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></td>
-<td>🟠 <b>STATIC / WIP</b></td>
+<td>🟢 <b>SHIPPED</b></td>
 </tr>
 
 <tr>
