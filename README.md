@@ -52,7 +52,7 @@
 > Honest status flags. **`SHIPPED`** = live, go use it. **`BUILDING`** = works, still on it. **`STATIC / WIP`** = the front end is real, the backend isn't wired yet. I don't list things that don't exist.
 
 <table>
-<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Status</th><th align="left">Github</th></tr>
+<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Status</th><th align="left">Code</th></tr>
 
 <tr>
 <td><b><a href="https://aarondavidge.com/assistant.html">A4RON.AI</a></b></td>
