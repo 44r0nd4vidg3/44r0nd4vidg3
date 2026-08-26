@@ -58,7 +58,7 @@
 <td><b><a href="https://aarondavidge.com/assistant.html">A4RON.AI</a></b></td>
 <td>Containerized FastAPI agent on Cloud Run, fronted by an Application Load Balancer at <code>api.aarondavidge.com</code>, with Model Armor screening traffic in both directions around Gemini 3.5 Flash. Conversational only today — retrieval and tool calling are next.</td>
 <td><code>Cloud Run</code> <code>Docker</code> <code>FastAPI</code> <code>Load Balancer</code> <code>Model Armor</code> <code>Gemini 3.5 Flash</code></td>
-<td>🟡 <b>BUILDING</b></td>
+<td>🟢 <b>SHIPPED</b></td>
 </tr>
 
 <tr>
