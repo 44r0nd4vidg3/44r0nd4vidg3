@@ -89,6 +89,13 @@
 <td>🟠 <b>STATIC / WIP</b></td>
 </tr>
 
+<tr>
+<td><b><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp">MCP Server</a></b></td>
+<td>MCP server for the SAM.gov Get Opportunities API — search federal contract opportunities from Claude in plain English</td>
+<td><code>Python</code></td>
+<td>🟢 <b>SHIPPED</b></td>
+</tr>
+
 </table>
 
 ---
