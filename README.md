@@ -59,6 +59,7 @@
 <td>Containerized FastAPI agent on Cloud Run, fronted by an Application Load Balancer at <code>api.aarondavidge.com</code>, with Model Armor screening traffic in both directions around Gemini 3.5 Flash. Conversational only today — retrieval and tool calling are next.</td>
 <td><code>Cloud Run</code> <code>Docker</code> <code>FastAPI</code> <code>Load Balancer</code> <code>Model Armor</code> <code>Gemini 3.5 Flash</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </tr>
 
 <tr>
@@ -66,6 +67,7 @@
 <td>Automated pipeline ingesting Google Project Zero's root-cause analyses of in-the-wild zero-days into structured, queryable records. Handles messy source formatting and dedupes on re-run.</td>
 <td><code>Javascript</code> <code>Scraping</code> <code>Scheduled ingest</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </tr>
 
 <tr>
@@ -73,6 +75,7 @@
 <td>The hub tying the whole <code>aarondavidge.com</code> ecosystem together. Hand-built, no framework, full SEO + OG metadata.</td>
 <td><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </tr>
 
 <tr>
@@ -80,6 +83,7 @@
 <td>Storefront for the 44R0N mech line. Static build with demo product cards today — Stripe integration and real merch are the next phase.</td>
 <td><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </tr>
 
 <tr>
@@ -87,6 +91,7 @@
 <td>Field notes from the workshop — AI engineering, agentic development, and whatever broke this week. Static build, no CMS yet.</td>
 <td><code>HTML</code> <code>Tailwind</code> <code>JavaScript</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </tr>
 
 <tr>
@@ -94,7 +99,7 @@
 <td>MCP server for the SAM.gov Get Opportunities API — search federal contract opportunities from Claude in plain English</td>
 <td><code>Python</code></td>
 <td>🟢 <b>SHIPPED</b></td>
-<td><a href="https://example.com"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
+<td><a href="https://github.com/44r0nd4vidg3/sam_gov_mcp"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"height="20" alt="Visit site"></a>
 </td>
 </tr>
 
