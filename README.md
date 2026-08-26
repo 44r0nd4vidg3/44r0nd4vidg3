@@ -59,7 +59,11 @@
 <td>Containerized FastAPI agent on Cloud Run, fronted by an Application Load Balancer at <code>api.aarondavidge.com</code>, with Model Armor screening traffic in both directions around Gemini 3.5 Flash. Conversational only today — retrieval and tool calling are next.</td>
 <td><code>Cloud Run</code> <code>Docker</code> <code>FastAPI</code> <code>Load Balancer</code> <code>Model Armor</code> <code>Gemini 3.5 Flash</code></td>
 <td>🟢 <b>SHIPPED</b></td>
-<td>![](https://jsdelivr.net) GitHub</td>
+<td>
+  <a href="https://example.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub Logo" height="30">
+  </a>
+</td>
 </tr>
 
 <tr>
