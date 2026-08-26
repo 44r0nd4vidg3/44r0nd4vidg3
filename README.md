@@ -52,13 +52,14 @@
 > Honest status flags. **`SHIPPED`** = live, go use it. **`BUILDING`** = works, still on it. **`STATIC / WIP`** = the front end is real, the backend isn't wired yet. I don't list things that don't exist.
 
 <table>
-<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Status</th></tr>
+<tr><th align="left">Project</th><th align="left">What it is</th><th align="left">Stack</th><th align="left">Status</th><th align="left">Github</th></tr>
 
 <tr>
 <td><b><a href="https://aarondavidge.com/assistant.html">A4RON.AI</a></b></td>
 <td>Containerized FastAPI agent on Cloud Run, fronted by an Application Load Balancer at <code>api.aarondavidge.com</code>, with Model Armor screening traffic in both directions around Gemini 3.5 Flash. Conversational only today — retrieval and tool calling are next.</td>
 <td><code>Cloud Run</code> <code>Docker</code> <code>FastAPI</code> <code>Load Balancer</code> <code>Model Armor</code> <code>Gemini 3.5 Flash</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td>![](https://jsdelivr.net) GitHub</td>
 </tr>
 
 <tr>
