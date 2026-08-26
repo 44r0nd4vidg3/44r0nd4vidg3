@@ -59,7 +59,6 @@
 <td>Containerized FastAPI agent on Cloud Run, fronted by an Application Load Balancer at <code>api.aarondavidge.com</code>, with Model Armor screening traffic in both directions around Gemini 3.5 Flash. Conversational only today — retrieval and tool calling are next.</td>
 <td><code>Cloud Run</code> <code>Docker</code> <code>FastAPI</code> <code>Load Balancer</code> <code>Model Armor</code> <code>Gemini 3.5 Flash</code></td>
 <td>🟢 <b>SHIPPED</b></td>
-<td><img alt="Github Icon" src="https://img.shields.io/badge/github-repo-blue%3Flogo%3Dgithub?link=http%3A%2F%2Fexample.com"></td>
 </tr>
 
 <tr>
@@ -95,7 +94,6 @@
 <td>MCP server for the SAM.gov Get Opportunities API — search federal contract opportunities from Claude in plain English</td>
 <td><code>Python</code></td>
 <td>🟢 <b>SHIPPED</b></td>
-<td><object>https://img.shields.io/badge/github-repo-blue%3Flogo%3Dgithub?style=social&logo=github&link=google.com</object></td>
 </tr>
 
 </table>
