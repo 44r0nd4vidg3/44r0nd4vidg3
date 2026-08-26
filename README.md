@@ -95,6 +95,7 @@
 <td>MCP server for the SAM.gov Get Opportunities API — search federal contract opportunities from Claude in plain English</td>
 <td><code>Python</code></td>
 <td>🟢 <b>SHIPPED</b></td>
+<td><img alt="Static Badge" src="https://img.shields.io/badge/github-repo-blue%3Flogo%3Dgithub?style=plastic&logo=github&link=https%3A%2F%2Fgithub.com%2F44r0nd4vidg3%2Fsam_gov_mcp"></td>
 </tr>
 
 </table>
