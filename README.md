@@ -4,7 +4,7 @@
 
 # `44R0N D4VIDG3`
 
-** Aspiry Software Engineer **
+** Aspiring Software Engineer **
 
 `build it` → `ship it` → `try to break it` → `patch it`
 
