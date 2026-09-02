@@ -4,7 +4,7 @@
 
 # `44R0N D4VIDG3`
 
-** Aspiring Software Engineer **
+** Software Engineer **
 
 `build it` → `ship it` → `try to break it` → `patch it`
 
